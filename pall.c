@@ -6,6 +6,7 @@
  * @line_number: unused variable
  * Return: the address of the first node
  */
+
 stack_t *pall(stack_t **stack,
 	      unsigned int line_number __attribute__((unused)))
 {
